@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://54.172.50.121:8081/repository/Nagashoury-Releases/</url>
+	      <url>http://3.93.68.70:8081/repository/Nagashoury-Releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.172.50.121:8081/repository/Nagashourya-Snapshot/</url>
+	      <url>http://3.93.68.70:8081/repository/Nagashourya-Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
